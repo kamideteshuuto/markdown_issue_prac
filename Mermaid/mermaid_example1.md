@@ -22,7 +22,7 @@ graph TD;
 - コードを変更した場合、プレビューを更新するには、再読み込みアイコンをクリックするか、
 - Ctrl+Shift+Vを押します。
 
-######これで、VSCodeでMermaidを利用してグラフや図を作成し、プレビューすることができます。
+######　これで、VSCodeでMermaidを利用してグラフや図を作成し、プレビューすることができます。
 詳しくはこちら→[詳細](https://dev.classmethod.jp/articles/github-copilot-introduction/)
 
 ---
